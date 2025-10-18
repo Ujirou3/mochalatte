@@ -1,10 +1,2252 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "2661703fc53205135c5d0d0ca43e7175",
+				"Address" : "cImXTDor_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8c4ce97cf9ca0ff672c9ca82fde048ea",
+				"Address" : "cImXTDor_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "もからって",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8c5f00a8b4ad78b28e8ef8f9da3e08ec",
+				"Address" : "Swzp1u9_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c3906db127fc285db6df7feefdd771be",
+				"Address" : "Swzp1u9_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Itoko",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1fc869191614419092de7be9e175491e",
+				"Address" : "xOQWcutmc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "11e2c5affa3f5855e812f5809c987a3c",
+				"Address" : "xOQWcutmc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "勇者ろっと",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9b90068a69b94d3c16cf95661838424a",
+				"Address" : "8wpT6c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7f9b1dff63bafc0fce709e17e7475778",
+				"Address" : "8wpT6c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "あふぃ",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ad587a5302532defcf429dd548563680",
+				"Address" : "0fqy_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6009bc80691b61e6d1712b4af3e953d6",
+				"Address" : "0fqy_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "あや",
+			"Author" : "あや",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e6203708d7b984b8af4295e68d17a87a",
+				"Address" : "5bKZpDW_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "fe90d62bcfcb53084e4c707c8d0d4222",
+				"Address" : "5bKZpDW_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "77052c42ee9c28fa2b92c23ae13c5d10",
+				"Address" : "5bKZpDW_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "楠木瑞羽",
+			"Author" : "白州いるか",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1e11d4b0b5bf1a12bfc00044eadd5ab3",
+				"Address" : "lDK06c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d5fba5427e15717e3d7cf507b60f2be0",
+				"Address" : "lDK06c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "おみず",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "13ad1be0245d95a0ca710209f9d5f64c",
+				"Address" : "apIkvg_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "45d98cc03d90f107570c5eaac167410a",
+				"Address" : "apIkvg_Back.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "柊紫星",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "05d5dd47ac71abf7b706bf518c931123",
+				"Address" : "kSPR7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "009cfe3ae7aa8a3ebfdfc8bfc39b0b07",
+				"Address" : "kSPR7c_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "05d5dd47ac71abf7b706bf518c931123",
+				"Address" : "kSPR7c_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ややま",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "77421f23f3945d5f6a40ca82b33e861b",
+				"Address" : "Gd8zU7Th_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "8812ecfcdade0e1363857c007c66be3d",
+				"Address" : "Gd8zU7Th_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "02db0f0b1724f11f156ba390b13381c9",
+				"Address" : "Gd8zU7Th_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0457b54ae95119941250e8e5da139bca",
+				"Address" : "Gd8zU7Th_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "天魔執事長",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1f7a527a6b214b6e202b5ce030777631",
+				"Address" : "WB1XAIyq_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "ea5cb7711f9722743b3b60252361d962",
+				"Address" : "WB1XAIyq_Back.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "いぇすりる",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "dc29dd4bce57e8950d8651b436826e13",
+				"Address" : "nixPx8tlc_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "しゅんかんいとう",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a416bb43bea3d20d1dec5fd2f5f1eba0",
+				"Address" : "zVwy_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "べじ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c6b49331e3d1abab62af697a63c254f2",
+				"Address" : "HFLVXpw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ちいかわ",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9d18a5b2bc4de6435314c029bd9df85f",
+				"Address" : "fT5XdCw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ハチワレ",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c69d19e47614c809d296a0dc1a85b625",
+				"Address" : "xA0W6c_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "うさぎ",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0abbc4d896ca09c2d966a092eca6864e",
+				"Address" : "ee6u4h_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "3a8c585183ad5dc74c86d2febcc9506d",
+				"Address" : "ee6u4h_Move.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "GAYS",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d825f01a733d04b0319a37637c6d26ee",
+				"Address" : "wDRK8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ダック",
+			"Author" : "",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "932db425bb26e517defc027a3f43a706",
+				"Address" : "dwHy_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バカ",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "83f941130bcce042877e4b3d20b770ae",
+				"Address" : "G9YTjl73b_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "84967178a080e111e2e80f5824986db7",
+				"Address" : "G9YTjl73b_Flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "強風オールバック",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "aa086bdc8a2b9dab107788bb6f8bf176",
+				"Address" : "wNMUrZcnb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "a27314b1a8d9d9a5e8f8e672b40dec2e",
+				"Address" : "wNMUrZcnb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "今だけダブチ",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "37846ffb62c347dd2f6213080a8b2b29",
+				"Address" : "qBiBRKXR_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "533a2286b208ad866884c1be6d0f6991",
+				"Address" : "qBiBRKXR_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "百合夜_あおい",
+			"Author" : "白州いるか",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3e006f7d2a235677a6617cbfee4d18c8",
+				"Address" : "QnuN_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "3ff7d8428d6b10d9857f115e698d5e61",
+				"Address" : "QnuN_Flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "中村",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e5ecb1e4539286627be98c2ed2b70639",
+				"Address" : "VDDYXpw_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "020f9fab9fef535f74fa8663fb736097",
+				"Address" : "VDDYXpw_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "73caa43ed6bfca216f6e1b31c5882ee3",
+				"Address" : "VDDYXpw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ちぇるの",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e98f41969d409f127832c0c5b778d023",
+				"Address" : "5od5Xqw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6d54f12f4dc4c6c7f35fd8caa11bd507",
+				"Address" : "5od5Xqw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ながつか",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7e31242bbea792a81abbb1b81478b494",
+				"Address" : "qPyoWTDs_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "8c7916c57dd337bf3895f712226f7310",
+				"Address" : "qPyoWTDs_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b901bdbe9ea878e725054431125b1e43",
+				"Address" : "qPyoWTDs_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "マテウス2",
+			"Author" : "白州いるか",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4a7d5cc2a21320e5d67a2abd1b37a23a",
+				"Address" : "7sHl7S3hb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "403c32f7a0ffb3da584d24aa2db7589f",
+				"Address" : "7sHl7S3hb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "もからって・新",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0d7768144c6f7776247533b483e591c6",
+				"Address" : "UTkfnEnb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "07fb9b5907f25a193ac5894b147aaddb",
+				"Address" : "UTkfnEnb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ZEBAN",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8b20a10200e808495ef442ef5d034aab",
+				"Address" : "guOTCev1_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8b9d6e0d18eb59f4f65299545e949c93",
+				"Address" : "guOTCev1_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "鈴ヶ森リン",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a25c3d03648752ba0b89f8b62020e27e",
+				"Address" : "5wlW7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "57b8e7c3dc132303750cbca78868d4a4",
+				"Address" : "5wlW7c_Back.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "らった",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "13bd745c47f3a02130bf2ecd25cfc102",
+				"Address" : "TVeG8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "10e096e789ab1403ba3f3d9d0f1aa4d0",
+				"Address" : "TVeG8c_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "9d2a0de487d8e6f3d17c07f9245128bd",
+				"Address" : "TVeG8c_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "97cdcf36633ac77bcdd8c26a9fecbfb2",
+				"Address" : "TVeG8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "10e096e789ab1403ba3f3d9d0f1aa4d0",
+				"Address" : "TVeG8c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "セオノ",
+			"Author" : "セオノ",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "956632569ada059b7ec05048dbdd93c1",
+				"Address" : "abw8myJCb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "956632569ada059b7ec05048dbdd93c1",
+				"Address" : "V2faGJ8g_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "15138f24da8b778887727fd95206b935",
+				"Address" : "abw8myJCb_Back.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "natsume",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "27a98e193e1f9dc4a492f883899a2c21",
+				"Address" : "Oegbw9NX_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ｴｯﾎｴｯﾎ",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "323d10ad0f9a53f8a35a07867f082b8b",
+				"Address" : "apKUF6cEb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "2d14187e6aa435e824631d1775031179",
+				"Address" : "apKUF6cEb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "73c79289215c7a4e0a7fabc8504db1ad",
+				"Address" : "apKUF6cEb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "もからってドラゴンズ",
+			"Author" : "黒いるか",
+			"Package" : "04",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "57cab9bc2cb7698f41c5fd27a8326845",
+				"Address" : "N7HwIfMq_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "dd35484b68280a641b2f000d8e6bc792",
+				"Address" : "N7HwIfMq_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ごんちゃん",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d8e7ed74d40efaef6a7d5ba2a91c3db0",
+				"Address" : "84LiAdUG_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "f6d2fa33a10e44f4369a4be7e109f0a3",
+				"Address" : "84LiAdUG_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "df8cee11a0b3b0ef657650293f89e3dd",
+				"Address" : "84LiAdUG_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドラゴンズヘルム",
+			"Author" : "黒いるか",
+			"Package" : "04",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e0160a687b7519b0da1efd2fe54956f4",
+				"Address" : "VtNplEw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "モモンガ",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "97a1ad6f733277feddcff97f77672377",
+				"Address" : "ZS3O_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ラッコ先生",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "77e307ad8ba371c88293653283e7b388",
+				"Address" : "ws7h3ICIb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c53676ce3453efe69c60cb0cdc50b64c",
+				"Address" : "ws7h3ICIb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "すうがくしゃ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8cf44b2b9bbeb25c72fd89e828808078",
+				"Address" : "n6tbHQQUb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "36b852ef7174cd99e3f36fc7e0cfd36e",
+				"Address" : "n6tbHQQUb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "白州いるか",
+			"Author" : "白州いるか",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2c1717e4d5d5727e67922f7382286cc1",
+				"Address" : "DtwyWZNxb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "96c9c661a21ed9d948f376a09979d0aa",
+				"Address" : "DtwyWZNxb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "白州いるか\(黒\)",
+			"Author" : "白州いるか",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2a043b6652cbccfabb8d79b70d32cd74",
+				"Address" : "fba7MzgMb_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "伝説の超いるか",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9e216d25e80ff358d3f4468951583650",
+				"Address" : "9Xh_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "男",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8fd3990adf0c6c53914c7b11291977fc",
+				"Address" : "TnZ4c99_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "蛮カラ男",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7f3d1de06317cac02ba8e31991020f99",
+				"Address" : "jrAr8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "36dc45d5a6fbe3b43d5476704976da32",
+				"Address" : "jrAr8c_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "66a5b22343c2f40fed519c14feb706aa",
+				"Address" : "jrAr8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "カイジ",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e782167a54c03167272b69fc2a0a13c1",
+				"Address" : "XUCafQBG_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "くりまんじゅう",
+			"Author" : "白州いるか",
+			"Package" : "02",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1b1e29872e7153fb20f36a14455b6b25",
+				"Address" : "PNPoWTDs_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "8c40d4fae83c4cb630be98ec1a077bf4",
+				"Address" : "PNPoWTDs_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7284214481799cca36e0c4774e2c8fe1",
+				"Address" : "PNPoWTDs_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "マテウス３",
+			"Author" : "セオノ",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "910ceb6436abf7d98ce6ef59350fd83b",
+				"Address" : "m8lECVV_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "41725a68e1a61ccb118c600ea3210536",
+				"Address" : "m8lECVV_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "f710f25a9fd095f21d69fccf343c29f7",
+				"Address" : "m8lECVV_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7601dd6f9e468c0506771b974d5e1d38",
+				"Address" : "m8lECVV_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "柊紫星２",
+			"Author" : "セオノ",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4a1cb08d590c25e7a80a2d155e21ffcb",
+				"Address" : "8Mwc7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "8734a6dafd0c37bbb4b73712a15ad3f9",
+				"Address" : "8Mwc7c_Back.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "しあん",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8d88e8a6825ca5cf75da90fed0d9f2d9",
+				"Address" : "gbyX_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "戦車",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "191e9b16aba8ebac051f61cfba354a8c",
+				"Address" : "PVpRd5qxb_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "167ed3a0c4390f37434561e1683c0b0d",
+				"Address" : "PVpRd5qxb_Move.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "R\.E\.P\.O\.ロボ",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e6b3ad6f4ae1af2e4502e25c101d3c35",
+				"Address" : "eOE54tw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ゆきかぜ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0192cb3f6214b18b7bf471992acc3987",
+				"Address" : "8oIa7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "2f3744abd8e15b688b3dc3032f05e7b9",
+				"Address" : "8oIa7c_Move.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "さかな",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "75d1aead6c69052fc9227bafa82acc13",
+				"Address" : "O0Wl2HFI_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "638d3e315091cc6c5ab72de9d799f431",
+				"Address" : "O0Wl2HFI_Back.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "みおねももあ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "288cb1c1b125b14b679af4f593129d1a",
+				"Address" : "zd4aezw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ゴブリン",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c71c2fd5964bb625ce294802c39a8640",
+				"Address" : "71tEDsw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "べじゴブ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "654cd229d611ab43a6af724d268990c2",
+				"Address" : "aRuy_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "とあ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c1646779949b18398e87fe8e6d420c1a",
+				"Address" : "XFCy_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "エル",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3859e02f1a82384f7972488169f0fdc7",
+				"Address" : "vTxy_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "めい",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "87d9d411217da21d65aaf6f0950b8015",
+				"Address" : "YoLY569Db_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "メダロッター海豚",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "37c612e88b7920059a8e04d5654aedf0",
+				"Address" : "2pYaCjfCb_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "メガスターミー",
+			"Author" : "Ｕ次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cd9bc4ed6e429783123d45776d188878",
+				"Address" : "qgfCbnw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "えいすけ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "77ef93ba2e368957328e981337865e8e",
+				"Address" : "e5Phc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "U次郎",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4456bcbfab46b7f2ce40dc0faffac2ec",
+				"Address" : "pJ3eDo5_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "49c678209c3f7110e1dc1ba05925d9cf",
+				"Address" : "pJ3eDo5_Move.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "米津玄師",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d8e7ed74d40efaef6a7d5ba2a91c3db0",
+				"Address" : "84LiAdUG_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "f6d2fa33a10e44f4369a4be7e109f0a3",
+				"Address" : "84LiAdUG_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "df8cee11a0b3b0ef657650293f89e3dd",
+				"Address" : "84LiAdUG_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ドラゴンズヘルム",
+			"Author" : "黒いるか",
+			"Package" : "04",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0209f36b8fc4be367b2aaea09c71624d",
+				"Address" : "K4mfWDy8_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "a0b6a0c4c04ac5436dcddc52a729d7b5",
+				"Address" : "K4mfWDy8_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "df8cee11a0b3b0ef657650293f89e3dd",
+				"Address" : "K4mfWDy8_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ドラゴンズヘルム（泣）",
+			"Author" : "黒いるか",
+			"Package" : "04",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b87a5322e0047458fe31b57dd919b807",
+				"Address" : "mONC2CXC_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "察しの悪い雨穴",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "03be9bba9d58107d4b617d2d82e5494f",
+				"Address" : "MLpJkDor_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "fd32fcf5663c01244ab1db903e1426ec",
+				"Address" : "MLpJkDor_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "もうさァ！",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1e11d4b0b5bf1a12bfc00044eadd5ab3",
+				"Address" : "jbIhJHMc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "おみずへア",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "712b77db3ad0edaca123ff70cf2a285d",
+				"Address" : "DbEQDcwEb_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "ea5cb7711f9722743b3b60252361d962",
+				"Address" : "8y8BcReqc_Back.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "いぇすりるヘア",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e98f41969d409f127832c0c5b778d023",
+				"Address" : "YhrpCt50_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "5f0a0c66849c99f996651c610b48eeef",
+				"Address" : "YhrpCt50_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ながつかヘア",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "05d5dd47ac71abf7b706bf518c931123",
+				"Address" : "BIrn4pqr_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ややまヘッド",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0d7768144c6f7776247533b483e591c6",
+				"Address" : "VxW5drJVb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ZEBANメット",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "80443e791eb30dc95440feed1db32bf9",
+				"Address" : "Ueicfl18_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "a4d9ea2edf8cc480c0a3ce80ae7129db",
+				"Address" : "Ueicfl18_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "natsumeヘア",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a23774afa688d44c0e04ee823a8b7afa",
+				"Address" : "82BibzZeb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ややまヘアー",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ec6a002c86d09554ba2d7f7fbf1b318c",
+				"Address" : "XxIwQ8Ulc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ややまフェイス",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "229cf1b1b9bcc5627327efc298d9bb33",
+				"Address" : "6YO467gr_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "べじヘアー",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d95a4efaf1e251f220eaaf34cbe04ef9",
+				"Address" : "1D8omvRxc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "べじフェイス",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "654cd229d611ab43a6af724d268990c2",
+				"Address" : "aRuy_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "とあ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Back" : {
+				"Hash" : "6f70603d595bbd9db75f7f4beae375b4",
+				"Address" : "65kWVHgX_Back.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "6f70603d595bbd9db75f7f4beae375b4",
+				"Address" : "65kWVHgX_Preview.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "しあん（連装砲）",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a416bb43bea3d20d1dec5fd2f5f1eba0",
+				"Address" : "QYS467gr_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "べじヘッド",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "e41b6010b78a93233656f6d9ff0f1f63",
+				"Address" : "eNevoTB1_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "もかプレート",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "04e7e4f2a6b43aaa50470a2a027a08a9",
+				"Address" : "jSm1wajl_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "スプラ★MOCHA",
+			"Author" : "chimaru",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "3371a23f945ed1be0355af617ae8928a",
+				"Address" : "LvviZSfl_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "スプラ★Itoko",
+			"Author" : "chimaru",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "f78755f70bbdc551b5fc3fd4b59138dd",
+				"Address" : "PNcegDor_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "もか★ペア",
+			"Author" : "chimaru",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "f4f33db752571fa5b5efa77350a0d123",
+				"Address" : "PJEqTDw_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "マテウス",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "d76eee792ed3c2e948c37ca4ea7775c6",
+				"Address" : "hooaUr7ib_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "もかプレート２",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "4683dc77248dabc014b26658afef9bb6",
+				"Address" : "b4MgMaStb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ろっとプレート【勇者版】",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "62f003093028a41c3ef490204a3996c0",
+				"Address" : "98VmFgozb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "Mocha＆Yuki",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "e264574053d8801340d8abcd827dde1e",
+				"Address" : "HtqmEnN4b_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "もかポケ（ピンク）",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "2ab01543f1bb613d1ebe84e757857ad9",
+				"Address" : "qmW1RnN4b_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "もかポケ（ブルー）",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "1abcba1307a6c155f42dd79df2d92f24",
+				"Address" : "5xN7_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "AOI",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "11f942647d95339bfa0697ab3d6d4382",
+				"Address" : "XeZkdlfb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "Piano",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "eeece10e33476a6f0400d4ef53cec59e",
+				"Address" : "VkhJZqDxc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "マッスルクルー",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "a42f3d842d1efbcc8e54f3cfddfb49b1",
+				"Address" : "PUPGRhEY_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "CHerNO3",
+			"Author" : "mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "09ff3e7d599fb52050c9835892058aa5",
+				"Address" : "zV0Gr9KQ_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ポケットペア？知りませんね。",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "6a1524be1d6babf4dcb0016b00b60699",
+				"Address" : "CK6OKDAq_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "このプレートなんか変・・",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "fb5e76876f26a713ef28b04228dfd62f",
+				"Address" : "dV576lCob_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "洗脳タイム",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "3dbdd06bab66644d5bcf0d835b02be82",
+				"Address" : "FAtlyR4X_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ドアラクール",
+			"Author" : "U次郎",
+			"Package" : "04",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "d360e26cf651a90d0717652a37479574",
+				"Address" : "EwwA8H9Sb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ダディクール！！！",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "6ab75c618f4186b27f41a3dd4e28a6aa",
+				"Address" : "lylsGJOq_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "しゃおろん",
+			"Author" : "U次郎",
+			"Package" : "04",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "b26cf5e14419abfc37fd3f0475f73560",
+				"Address" : "nh5AMahdc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "You_Deer",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "fe9cc15ab23171227b4e6db10e0e5653",
+				"Address" : "jQF2bpJKb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "らんらんるー",
+			"Author" : "U次郎",
+			"Package" : "03",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "0ed1438e822b79279e905ffbabbe635e",
+				"Address" : "uxVTlRSpb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "走る執事長BB",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "1a887903aecf4fb978a907af5a2a8096",
+				"Address" : "YCcWZCyjb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "そんなに怖いか？",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "4be477229ea9f648a28ca58935a05205",
+				"Address" : "iiE0y2Qb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "リザードンはいうことをきかない",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "8bbd2419b95b773dfc73a3d290973e32",
+				"Address" : "6Iswnf3T_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "バイバイみんな",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "b41244f9cb2940a3913122a1f06f82a4",
+				"Address" : "CjFl9c_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ヨシ！",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "40329acebb81277d6f1733e4f8b9bb91",
+				"Address" : "OJC7rzhy_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ぎろんのにがてなひと",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "c4c75a1537b3d4c3526e5473650c9dee",
+				"Address" : "BwgmWWnf_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "そんなに怖いか？2",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "2ef184d2dfdefc3d84ecf2feea6093b7",
+				"Address" : "F1QnMnB0_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "超\(スーパー\)べじ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "377f42093cbc2d30eb686615757cd16a",
+				"Address" : "1JsA6xYCb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "地獄からの使者",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "69d34796bf0b0641526bcd7672d8c094",
+				"Address" : "o1rXPzhwb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "すり替えておいたのさ！",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "7ecbbee9b07471865024668aa4eb5ac3",
+				"Address" : "CTqZRbfn_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "プリンゥゥァア゛ー!!!!",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "1261dca725af9081b28926a63d84b320",
+				"Address" : "5c55SpFn_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "もからって_お誕生日！",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "c5e04a740bb3e67168943534be8300e4",
+				"Address" : "DvOmQUt0b_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "メロリンすうがくしゃ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "01",
+			"Format" : "もからって船",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "02",
+			"Format" : "黒いるかHATS",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "03",
+			"Format" : "U次郎の趣味",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "04",
+			"Format" : "ドラゴンズ",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
