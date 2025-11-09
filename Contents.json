@@ -1386,6 +1386,29 @@
 			"Package" : "01",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c03c92f8ffcefb1341b5e1acc0de23e2",
+				"Address" : "Nhty_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "4e61fdaa4b643741dc801cb863d3c73c",
+				"Address" : "Nhty_Flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "せつ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
