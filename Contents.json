@@ -18,11 +18,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "もからって",
 			"Author" : "あやちゃん",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -42,11 +42,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "Itoko",
 			"Author" : "あやちゃん",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -66,11 +66,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "勇者ろっと",
 			"Author" : "あやちゃん",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -90,11 +90,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "あふぃ",
 			"Author" : "あやちゃん",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -114,11 +114,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "あや",
 			"Author" : "あや",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -143,11 +143,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "楠木瑞羽",
 			"Author" : "白州いるか",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -167,11 +167,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "おみず",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -191,11 +191,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "柊紫星",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -220,11 +220,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ややま",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -254,11 +254,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "天魔執事長",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -278,11 +278,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "いぇすりる",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -297,11 +297,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "しゅんかんいとう",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -316,11 +316,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "べじ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -335,11 +335,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ちいかわ",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -354,11 +354,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ハチワレ",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -373,11 +373,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "うさぎ",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -397,11 +397,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "GAYS",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -416,11 +416,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ダック",
 			"Author" : "",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -435,11 +435,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "バカ",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -459,11 +459,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "強風オールバック",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -483,11 +483,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "今だけダブチ",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -507,11 +507,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "百合夜_あおい",
 			"Author" : "白州いるか",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -531,11 +531,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "中村",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -560,11 +560,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ちぇるの",
 			"Author" : "あやちゃん",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -584,11 +584,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ながつか",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -613,11 +613,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "マテウス2",
 			"Author" : "白州いるか",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -637,11 +637,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "もからって・新",
 			"Author" : "あやちゃん",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -661,11 +661,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ZEBAN",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -685,11 +685,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "鈴ヶ森リン",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -709,11 +709,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "らった",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -748,11 +748,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "セオノ",
 			"Author" : "セオノ",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -777,11 +777,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "natsume",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -796,11 +796,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ｴｯﾎｴｯﾎ",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -825,11 +825,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "もからってドラゴンズ",
 			"Author" : "黒いるか",
 			"Package" : "04",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -849,11 +849,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ごんちゃん",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -878,11 +878,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ドラゴンズヘルム",
 			"Author" : "黒いるか",
 			"Package" : "04",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -897,11 +897,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "モモンガ",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -916,11 +916,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ラッコ先生",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -940,11 +940,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "すうがくしゃ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -964,11 +964,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "白州いるか",
 			"Author" : "白州いるか",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -988,11 +988,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "白州いるか\(黒\)",
 			"Author" : "白州いるか",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1007,11 +1007,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "伝説の超いるか",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1026,11 +1026,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "男",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1045,11 +1045,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "蛮カラ男",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1074,11 +1074,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "カイジ",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1093,11 +1093,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "くりまんじゅう",
 			"Author" : "白州いるか",
 			"Package" : "02",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1122,11 +1122,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "マテウス３",
 			"Author" : "セオノ",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1156,11 +1156,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "柊紫星２",
 			"Author" : "セオノ",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1180,11 +1180,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "しあん",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1199,11 +1199,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "戦車",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1223,11 +1223,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "R\.E\.P\.O\.ロボ",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1242,11 +1242,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ゆきかぜ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1266,11 +1266,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "さかな",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1290,11 +1290,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "みおねももあ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1309,11 +1309,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ゴブリン",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1328,11 +1328,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "べじゴブ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1347,11 +1347,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "とあ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1366,11 +1366,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "エル",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1385,11 +1385,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "めい",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1404,11 +1404,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "メダロッター海豚",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1423,11 +1423,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "メガスターミー",
 			"Author" : "Ｕ次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1442,11 +1442,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "えいすけ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1466,11 +1466,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "せつ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1490,11 +1490,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "カルキ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1514,11 +1514,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "陽映菜",
 			"Author" : "陽映菜",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1538,11 +1538,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "陽映菜２",
 			"Author" : "陽映菜",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1562,11 +1562,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "キラ",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1586,11 +1586,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "L",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1605,11 +1605,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ライト",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1624,11 +1624,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ミサ",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1643,11 +1643,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "ニア",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1662,11 +1662,30 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "メロ",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0707e7ccf2f0f038639e086b2ead73d3",
+				"Address" : "BJmGNkVq_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "たかてぃん",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -1681,11 +1700,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "U次郎",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1703,11 +1722,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "米津玄師",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1730,11 +1749,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ドラゴンズヘルム",
 			"Author" : "黒いるか",
 			"Package" : "04",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1757,11 +1776,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ドラゴンズヘルム（泣）",
 			"Author" : "黒いるか",
 			"Package" : "04",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1774,11 +1793,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "察しの悪い雨穴",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1796,11 +1815,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "もうさァ！",
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1813,11 +1832,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "おみずへア",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1835,11 +1854,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "いぇすりるヘア",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1857,11 +1876,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ながつかヘア",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1874,11 +1893,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ややまヘッド",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1891,11 +1910,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ZEBANメット",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1913,11 +1932,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "natsumeヘア",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1930,11 +1949,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ややまヘアー",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1947,11 +1966,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ややまフェイス",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1964,11 +1983,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "べじヘアー",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1981,11 +2000,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "べじフェイス",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1998,11 +2017,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "とあ",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2020,11 +2039,11 @@
 			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "しあん（連装砲）",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2037,11 +2056,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "べじヘッド",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -2057,6 +2076,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2070,6 +2090,7 @@
 			"Author" : "chimaru",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2083,6 +2104,7 @@
 			"Author" : "chimaru",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2096,6 +2118,7 @@
 			"Author" : "chimaru",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2109,6 +2132,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2122,6 +2146,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2135,6 +2160,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2148,6 +2174,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2161,6 +2188,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2174,6 +2202,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2187,6 +2216,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2200,6 +2230,7 @@
 			"Author" : "Mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2213,6 +2244,7 @@
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2226,6 +2258,7 @@
 			"Author" : "mocha",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2239,6 +2272,7 @@
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2252,6 +2286,7 @@
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2265,6 +2300,7 @@
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2278,6 +2314,7 @@
 			"Author" : "U次郎",
 			"Package" : "04",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2291,6 +2328,7 @@
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2304,6 +2342,7 @@
 			"Author" : "U次郎",
 			"Package" : "04",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2317,6 +2356,7 @@
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2330,6 +2370,7 @@
 			"Author" : "U次郎",
 			"Package" : "03",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2343,6 +2384,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2356,6 +2398,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2369,6 +2412,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2382,6 +2426,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2395,6 +2440,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2408,6 +2454,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2421,6 +2468,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2434,6 +2482,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2447,6 +2496,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2460,6 +2510,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2473,6 +2524,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2486,6 +2538,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -2499,6 +2552,7 @@
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
