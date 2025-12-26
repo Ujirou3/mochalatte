@@ -18,9 +18,9 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"Name" : "もからって",
 			"Author" : "あやちゃん",
 			"Package" : "01",
+			"Name" : "もからって",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -1687,6 +1687,103 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2c66235905e109845275ca2a3d2335d9",
+				"Address" : "4BXQGKB1_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "5f59ec42cba3fde0540f622b971f32d4",
+				"Address" : "4BXQGKB1_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"MainItem" : "もからって",
+			"Name" : "もからって服",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "134afbfb263887b8372b1a101aa7b1d1",
+				"Address" : "AfhhWo38_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a2a5ca77b89a4207b25c167679a27213",
+				"Address" : "AfhhWo38_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "もからって服・新",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2c5a47b1e8d2a6f83b6b5b1a5ecee77e",
+				"Address" : "jziFRuw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c6ccfd79cc3d2118aa981cea807ff134",
+				"Address" : "m0Eyhgrc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "勇者ろっと服",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6e96f7ff5ffc5d54dc65a9bc04617116",
+				"Address" : "s1UITtnd_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "11e2c5affa3f5855e812f5809c987a3c",
+				"Address" : "s1UITtnd_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "勇者ろっと　眼鏡なし",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -2058,6 +2155,160 @@
 			"Fixed" : False,
 			"Name" : "べじヘッド",
 			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fda0be8d0ac31fc45d2594868f88a15a",
+				"Address" : "qGzl7S3hb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "bf8ef2c2755bd094cc35724e895779fb",
+				"Address" : "qGzl7S3hb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "もからってヘア",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1c614d58d44657e540c3eafd40b02854",
+				"Address" : "cSXlWzwP_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "bf8ef2c2755bd094cc35724e895779fb",
+				"Address" : "cSXlWzwP_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "もからってヘア　うるうる",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b4b65fe6d8f12ba92b7143b110c2f6c4",
+				"Address" : "3pewtEypb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "62d94ffd78d57db9020ebfc45c6be9ad",
+				"Address" : "3pewtEypb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "もからってヘア・新",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "85b37f9a637c9d0d23565afdcbdb3950",
+				"Address" : "amVWmmj9b_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3d1dc504009fe45f0750bd0d55b8ec2a",
+				"Address" : "amVWmmj9b_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "ろっとヘッド",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "46c54c190c0184907ef0e7b82fbfb7fb",
+				"Address" : "kcaRW4rJb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3d1dc504009fe45f0750bd0d55b8ec2a",
+				"Address" : "kcaRW4rJb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "ろっとヘッド　タバコ付き",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ee0a9346562128b0813ffa45ab097903",
+				"Address" : "Pd0Wmmj9b_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3d1dc504009fe45f0750bd0d55b8ec2a",
+				"Address" : "Pd0Wmmj9b_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "ろっとヘルム",
+			"Author" : "あやちゃん",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0ac6fbad7e66bf1fd0dab7c99a45a93d",
+				"Address" : "hdF0xbXNb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "62d94ffd78d57db9020ebfc45c6be9ad",
+				"Address" : "hdF0xbXNb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "もからってへあ・新うるうる",
+			"Author" : "あやちゃん",
 			"Package" : "01",
 			"IsUnlockable" : False,
 			"FPS" : 1,
