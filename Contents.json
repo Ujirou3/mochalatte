@@ -1806,6 +1806,25 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "329dec8a5c81521f641159447f24a239",
+				"Address" : "fUay7yw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "コヨミン",
+			"Author" : "Ｕ次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -2397,6 +2416,57 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "329dec8a5c81521f641159447f24a239",
+				"Address" : "fUay7yw_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "コヨミン",
+			"Author" : "Ｕ次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f260e458aa7d764e1a4b0e26a21f59e0",
+				"Address" : "fctT6c_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "あんり",
+			"Author" : "Ｕ次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fa6a13276dc9b67d74ed6184cdf159fe",
+				"Address" : "ChCNd9lDb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "じんおうがぁ",
+			"Author" : "Ｕ次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Nameplates" : [
@@ -2891,7 +2961,33 @@
 			"IsLocalizable" : True
 		}
 	],
-	"Stamps" : [
+	"stamps": [
+		{
+			"Author": "作者名",
+			"Package": "パッケージ名",
+			"Name": "スタンプ名(日本語可)",
+			"FPS":"アニメーションする場合はFPS(省略可)",
+			"Adaptive" : "true",
+			"Image": {
+				"Address": "画像のパス",
+				"Hash" : "ハッシュ値",
+				"ExAddress": "(追加レイヤーを使用する場合)追加レイヤーの画像のパス",
+				"ExHash" : "ハッシュ値",
+				"ExIsFront": "true"
+		},
+		{
+			"Author": "もか",
+			"Package": "01",
+			"Name": "GG",
+			"FPS":"1",
+			"Adaptive" : "true",
+			"Image": {
+				"Hash" : "6dc6cb120ff03600d91dfa583d5bdfb5",
+				"Address" : "6Ni_Plate.png",
+				"ExIsFront" : False
+			},	
+		},
+
 	],
 	"Packages" : [
 		{
