@@ -1870,9 +1870,9 @@
 				"Address" : "S9Q6itw_Main.png",
 				"ExIsFront" : False
 			},
-			"Flip" : {
+			"Back" : {
 				"Hash" : "5fa12bf3ca2657e7bd8d8ccaa79aa045",
-				"Address" : "S9Q6itw_Flip.png",
+				"Address" : "S9Q6itw_Back.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
