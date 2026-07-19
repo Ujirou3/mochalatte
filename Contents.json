@@ -3077,6 +3077,48 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "7842b0186f5dce2909af198303084435",
+				"Address" : "EG7ksFw_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "レモッカ",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "c0b38613e797de6095ebf47d76663e6d",
+				"Address" : "yRCVNGzs_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ベジスカー",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "4305dc0650562a0a75220e14510a6f14",
+				"Address" : "wZFEaXF5b_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "モカドラゴンズロゴ",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"stamps": [
@@ -3103,7 +3145,6 @@
 				"Hash" : "6dc6cb120ff03600d91dfa583d5bdfb5",
 				"Address" : "6Ni_Plate.png",
 				"ExIsFront" : False
-			},	
 		},
 
 	],
