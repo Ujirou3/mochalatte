@@ -3119,6 +3119,174 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "4f261df4b5974a4c41bf2e98dd6ce26f",
+				"Address" : "zxp9tQor_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "もか＆べじ",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "1fc1ba294e92b385befac149c1cdefef",
+				"Address" : "PMgj3Ftxc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "柊紫星＆おみず",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "5a84a7471b7517d7056ee574f8428275",
+				"Address" : "xhDYgPMb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "いぇすりる＆鈴ヶ森リン",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "0ea62ef19db8b22b14108e6aefde9dc2",
+				"Address" : "RTNgUp5nb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "れみりあ＆エドガー",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "d5c077339f15e1a2bc276fa7348768ac",
+				"Address" : "4oFh1aSCb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "黒岩白兎＆四ヶ岳八幡宮",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "c4edb9e66fbabde7f477e5ad0e682b88",
+				"Address" : "qu9cTIBBb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "誰彼らん＆ぐっち",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "3181746e23649cb474fedc80414e0d59",
+				"Address" : "DQ89zawDb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "トキマモ＆ユグド・リベル",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "2d7f57457ca2d54eac5671cd141d5237",
+				"Address" : "jWh6oBeuc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ゆーなお＆いちごもち",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "515b15e3afb69072d4002370421facf2",
+				"Address" : "DdNyw881b_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "みなこ＆ミタラン",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "89ce962d3d7a7cf2d4bbb63bd98475d9",
+				"Address" : "o5rD0QQtc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "月島エト＆ねむみんなめむみん",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "ee9425feeb1d9d3b9873f58a174ac3b4",
+				"Address" : "9SbNzfJX_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "コヨミン＆ココア村長",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "be0bd224fadc5a16565a17582277bada",
+				"Address" : "Bo2PgaBN_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ヒョー＆鮪なつこ",
+			"Author" : "Mocha",
+			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"stamps": [
@@ -3170,6 +3338,12 @@
 		{
 			"Package" : "04",
 			"Format" : "ドラゴンズ",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "05",
+			"Format" : "カップルあもあす",
 			"Priority" : 1,
 			"IsLocalizable" : True
 		}
