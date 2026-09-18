@@ -1925,7 +1925,7 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
-		}
+		},
 		{
 			"Main" : {
 				"Hash" : "78f5d7214ff02c136bd07d38012e9d55",
