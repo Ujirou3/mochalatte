@@ -1926,6 +1926,49 @@
 			"FPS" : 1,
 			"IsLocalizable" : True
 		}
+		{
+			"Main" : {
+				"Hash" : "78f5d7214ff02c136bd07d38012e9d55",
+				"Address" : "VLjMrlbr_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "7c9c7f6b31657a3e5d33bc6530ac67a9",
+				"Address" : "VLjMrlbr_Flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ひゃっくん",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "17513233b597380cc1aa16bfbc3682fc",
+				"Address" : "kXXhIAkQ_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "King_Joe",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
 	],
 	"Visors" : [
 		{
