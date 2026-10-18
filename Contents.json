@@ -1970,6 +1970,11 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Main" : {
+				"Hash" : "a366489e873332d226e772b9abae908d",
+				"Address" : "fYOa7c_Main.png",
+				"ExIsFront" : False
+			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
