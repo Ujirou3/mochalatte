@@ -1968,6 +1968,39 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "さめめ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "edb1e5bbe4afbcf2ec9dad918c4305a9",
+				"Address" : "Z6tLYnw_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "くめてゃ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -3109,6 +3142,20 @@
 		},
 		{
 			"Plate" : {
+				"Hash" : "277ea901f0121124be7e14fdb7f68520",
+				"Address" : "A1cPlrxsc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "誕プレとかないんか？",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
 				"Hash" : "c5e04a740bb3e67168943534be8300e4",
 				"Address" : "DvOmQUt0b_Plate.png",
 				"ExIsFront" : False
@@ -3327,6 +3374,34 @@
 			"Name" : "ヒョー＆鮪なつこ",
 			"Author" : "Mocha",
 			"Package" : "05",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "e99d0f9fbd77aece1cdeb7934b661fb8",
+				"Address" : "6TbtONDjc_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "Happy_Birthday_！",
+			"Author" : "Mocha",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "2fe66d3fdd675ddf316f5baa2aa618e5",
+				"Address" : "PIpmHrGjb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "クルーやりますねスギィ！",
+			"Author" : "U次郎",
+			"Package" : "03",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
