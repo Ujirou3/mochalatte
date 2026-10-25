@@ -1432,25 +1432,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "cd9bc4ed6e429783123d45776d188878",
-				"Address" : "qgfCbnw_Main.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "えいすけ",
-			"Author" : "U次郎",
-			"Package" : "01",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "c03c92f8ffcefb1341b5e1acc0de23e2",
 				"Address" : "Nhty_Main.png",
 				"ExIsFront" : False
@@ -2000,7 +1981,56 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"Name" : "くめてゃ",
+			"Name" : "くみてゃ",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9a8416dbe1f5ff5cf78aaeca39d7013e",
+				"Address" : "qgfCbnw_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "406d671b9bb5f7b7a97128ab67d8e3ba",
+				"Address" : "qgfCbnw_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "357236e16d1e4a897a99ae68332fb5c7",
+				"Address" : "qgfCbnw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "えいすけ",
+			"Author" : "セオノ",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cd9bc4ed6e429783123d45776d188878",
+				"Address" : "vkXGV3Bq_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"MainItem" : "えいすけ",
+			"Name" : "えいすけ２",
 			"Author" : "U次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
