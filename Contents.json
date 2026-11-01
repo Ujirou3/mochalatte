@@ -884,7 +884,7 @@
 			"LongNeckCostume" : True,
 			"Name" : "ドラゴンズヘルム",
 			"Author" : "黒いるか",
-			"Package" : "04",
+			"Package" : "02",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -2056,7 +2056,7 @@
 			"Fixed" : False,
 			"Name" : "ドラゴンズヘルム",
 			"Author" : "黒いるか",
-			"Package" : "04",
+			"Package" : "02",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -2083,7 +2083,7 @@
 			"Fixed" : False,
 			"Name" : "ドラゴンズヘルム（泣）",
 			"Author" : "黒いるか",
-			"Package" : "04",
+			"Package" : "02",
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
@@ -2595,40 +2595,6 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "コヨミン",
-			"Author" : "Ｕ次郎",
-			"Package" : "01",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "f260e458aa7d764e1a4b0e26a21f59e0",
-				"Address" : "fctT6c_Main.png",
-				"ExIsFront" : False
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "あんり",
-			"Author" : "Ｕ次郎",
-			"Package" : "01",
-			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "fa6a13276dc9b67d74ed6184cdf159fe",
-				"Address" : "ChCNd9lDb_Main.png",
-				"ExIsFront" : False
-			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"Name" : "じんおうがぁ",
 			"Author" : "Ｕ次郎",
 			"Package" : "01",
 			"IsUnlockable" : False,
