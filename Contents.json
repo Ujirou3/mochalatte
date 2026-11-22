@@ -1992,6 +1992,25 @@
 			"IsUnlockable" : False,
 			"FPS" : 1,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d74c7ee207932a7e8c58de3ffffad92e",
+				"Address" : "GMQNT45_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ELMAS",
+			"Author" : "U次郎",
+			"Package" : "01",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
